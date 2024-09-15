@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a freshman in SRMIST RMP.<br>🤝 Technical Member at Codechef in Web3 Domain.<br>🌱 I’m currently learning Javascript for Frontend<br>♟️Chess Player
+🔭 I’m a freshman in SRMIST RMP.<br>🤝 .<br>🌱 I’m currently learning Python for Data Analysis<br>♟️Chess Player
 
 
 # 🌐 Socials
