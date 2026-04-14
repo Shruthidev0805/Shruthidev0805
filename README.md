@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a pre-final in SRMIST RMP.<br>🌱 I’m currently learning Python for Data Analysis<br>♟️Chess Player
+🔭 I’m a Pre-final year student in SRMIST RMP.<br>🌱 I’m currently learning Python for Data Analysis<br>♟️Chess Player
 
 
 # 🌐 Socials
